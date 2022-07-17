@@ -10,8 +10,8 @@ const gameRule = 'What is the result of the expression?';
 
 
 const getRoundData = () => {
-    const numberOne = getRandomInt(50);
-    const numberTwo = getRandomInt(50);
+    const numberOne = getRandomInt(0, 50);
+    const numberTwo = getRandomInt(0, 50);
     const opindex = Math.floor(Math.random() * 3);
     const mathSymbol = Object.keys(OPMAP)[opindex]
     const correctAnswer =OPMAP[mathSymbol](numberOne, numberTwo);

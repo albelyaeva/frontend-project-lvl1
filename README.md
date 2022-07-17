@@ -9,3 +9,5 @@
 Запуск игры brain-calc  
 [![asciicast](https://asciinema.org/a/4aXIvRrx1JRGjMC0oNT6B3hld.svg)](https://asciinema.org/a/4aXIvRrx1JRGjMC0oNT6B3hld)
 
+Запуск игры brain-gcd  
+[![asciicast](https://asciinema.org/a/mFQjXilgn2hB9py9i1zIgSrMN.svg)](https://asciinema.org/a/mFQjXilgn2hB9py9i1zIgSrMN)
