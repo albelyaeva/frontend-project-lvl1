@@ -14,8 +14,7 @@ export const game = (gameRule, roundData) => {
     console.log()
     for (let i = 0; i < roundCounter; i += 1) {
         const [questionNum, correctAnswer] = roundData();
-        console.log('Question: ', questionNum);
-        const answerUser = readlineSync.question('Your answer: ');
+        const answerUser = readlineSync.question(`Question: ${questionNum} `);
 
         if (
             String(answerUser) === String(correctAnswer)
