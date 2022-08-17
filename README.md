@@ -11,3 +11,10 @@
 
 Запуск игры brain-gcd  
 [![asciicast](https://asciinema.org/a/mFQjXilgn2hB9py9i1zIgSrMN.svg)](https://asciinema.org/a/mFQjXilgn2hB9py9i1zIgSrMN)
+
+Запуск игры brain-progression  
+[![asciicast](https://asciinema.org/a/SgLbVZNBb18pFNR460u1gB7ki.svg)](https://asciinema.org/a/SgLbVZNBb18pFNR460u1gB7ki)
+
+Запуск игры brain-prime  
+[![asciicast](https://asciinema.org/a/XZwBXyHHmCM1jxqWvffhhMrwR.svg)](https://asciinema.org/a/XZwBXyHHmCM1jxqWvffhhMrwR)
+
