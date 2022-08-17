@@ -1,8 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/albelyaeva/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/albelyaeva/frontend-project-lvl1/actions)
 
-<a href="https://codeclimate.com/github/albelyaeva/brain-games/maintainability"><img src="https://api.codeclimate.com/v1/badges/a65eaa697dd2d3cadde4/maintainability" /></a>
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/0d1730c8078e40d96382/maintainability)](https://codeclimate.com/github/albelyaeva/frontend-project-lvl1/maintainability)
 Запуск игры brain-even  
 [![asciicast](https://asciinema.org/a/WIkp4FHtJpRnW5nxuuaHLPPll.svg)](https://asciinema.org/a/WIkp4FHtJpRnW5nxuuaHLPPll)
 
