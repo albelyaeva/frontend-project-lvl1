@@ -1,4 +1,4 @@
-import { getRandomInt } from '../getRandomInt';
+import { getRandomInt } from '../getRandomInt.js';
 
 const rule = 'Answer "yes" if given number is prime. Otherwise answer "no"';
 
